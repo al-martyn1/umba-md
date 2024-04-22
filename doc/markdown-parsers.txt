@@ -1,0 +1,39 @@
+Парсеры в сорцах
+
+Markdig is a fast, powerful, CommonMark compliant, extensible Markdown processor for .NET - https://github.com/xoofx/markdig
+
+  A freely-available Markdown text-to-HTML translator, written in C++ - https://sourceforge.net/projects/cpp-markdown/
+
+  cpp-markdown-parser - https://kandi.openweaver.com/c++/tannerdolby/cpp-markdown-parser
+      https://github.com/tannerdolby/cpp-markdown-parser
+
+  C++ (or C) Markdown Resources - https://bestofcpp.com/tag/markdown
+
+  Markdown renderer for Dear ImGui using MD4C parser - https://bestofcpp.com/repo/mekhontsev-imgui_md
+      https://github.com/mekhontsev/imgui_md
+
+  MD4C ?
+  maddy is a C++ Markdown to HTML header-only parser library - https://github.com/progsource/maddy
+
+  peg-markdown - https://github.com/jgm/peg-markdown/tree/master
+
+  Discount - http://www.pell.portland.or.us/~orc/Code/markdown/
+
+  libsoldout - http://fossil.instinctive.eu/libsoldout/home
+    https://github.com/vmg/sundown
+      https://github.com/hoedown/hoedown
+
+  MultiMarkdown - https://fletcherpenney.net/multimarkdown/
+
+  CMark - https://github.com/jgm/cmark
+
+  c-markdown - https://github.aiurs.co/piotrl/c-markdown
+
+  cMarkdown - https://github.com/paulsmith/cMarkdown
+
+  MarkdownImplementations - https://www.w3.org/community/markdown/wiki/MarkdownImplementations
+
+  Markdown Parser - https://learn.microsoft.com/en-us/windows/communitytoolkit/parsers/markdownparser
+
+  CppCMS - http://cppcms.com/wikipp/en/page/main
+    https://sourceforge.net/projects/cppcms/

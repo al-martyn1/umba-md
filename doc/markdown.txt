@@ -1,0 +1,63 @@
+GitHub
+  Quickstart for writing on GitHub       - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
+  About writing and formatting on GitHub - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github
+  Basic writing and formatting syntax    - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+  Work with advanced formatting
+    Organizing information with tables               - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+    Organizing information with collapsed sections   - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+    Creating and highlighting code blocks            - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks
+    Creating diagrams                                - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
+        Mermaid - https://mermaid-js.github.io/mermaid/#/
+    Writing mathematical expressions                 - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+        LaTeX/Mathematics - http://en.wikibooks.org/wiki/LaTeX/Mathematics
+        MathJax           - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+    Autolinked references and URLs                   - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
+
+  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+  Тут идёт ссылка на Markdown By JOHN GRUBER.
+
+GitHub Flavored Markdown Spec - https://github.github.com/gfm/
+    https://docs.github.com/ru/get-started/writing-on-github
+    Тут идёт ссылка на CommonMark Spec by John MacFarlane
+
+
+Markdown By JOHN GRUBER - https://daringfireball.net/projects/markdown/
+    https://daringfireball.net/projects/markdown/basics
+    https://daringfireball.net/projects/markdown/syntax
+
+
+CommonMark Spec - https://spec.commonmark.org/
+
+
+https://markdownlivepreview.com/
+
+-- Offtop
+astro (offline site generator) - http://rsdn.org/forum/shareware/8588423.1
+  https://astro.build/
+  https://docs.astro.build/en/getting-started/
+  npm create astro@latest
+  How to Update Node and NPM to the Latest Version - https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/
+    Clear the NPM cache
+      npm cache clean --force
+
+  node --version
+
+  update via chokolatey - https://stackoverflow.com/questions/8191459/how-do-i-update-node-js/19915418#19915418
+
+  Введение в Astro - https://habr.com/ru/articles/746380/
+  Что такое генераторы статических сайтов и почему Astro — лучший фреймворк для разработки лендингов 
+                   - https://habr.com/ru/articles/779428/
+
+---
+
+
+Markdown - Википедия - https://ru.wikipedia.org/wiki/Markdown
+Официальная документация по маркдауну - daringfireball.net - Markdown: Syntax - https://daringfireball.net/projects/markdown/syntax
+GitHub Flavored Markdown Spec - https://github.github.com/gfm/
+CommonMark: A strongly defined, highly compatible specification of Markdown - https://commonmark.org/
+  https://spec.commonmark.org/
+  https://code.commonmark.org/
+The Markdown Guide is a free and open-source reference guide that explains how to use Markdown - https://www.markdownguide.org/
+  https://www.markdownguide.org/basic-syntax/
+Markdown для Microsoft Learn – https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference
+Язык разметки Markdown: шпаргалка по синтаксису с примерами - https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/
